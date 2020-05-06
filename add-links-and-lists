@@ -1,19 +1,15 @@
 
 <html>
-
   <head>
     <title>I am a title</title>
   </head>
-  
   <ul>
     <li>netflix.com</li>
     <li>youtube.com</li>
     <li>twitter.com</li>
   </ul>
-  
   <body>
     <h1>header</h1>
-    
 <img src="https://avatars2.githubusercontent.com/u/62614078?v=4">
 
   </body>
